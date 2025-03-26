@@ -14,5 +14,5 @@
 ---
 
 📚 Currently taking Udemy's Data Science & ML Bootcamp  
-<!-- 🛠️ Check out my [Developer Reference Notebook](https://github.com/jdoan-ds/dev-reference-notebook) -->
+🛠️ Check out my [Developer Reference Notebook](https://github.com/jdoan-ds/dev-reference-notebook) -->
 
